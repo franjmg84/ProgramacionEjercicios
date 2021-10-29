@@ -1,0 +1,17 @@
+package ejercicioclase.suma;
+
+public class ejrcicio2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		byte suma=4+5;
+		
+		suma--; //este es unario
+		System.out.println("suma vale: "+suma);
+		float cuenta = 5/(suma+7-4)*2f;
+		System.out.println(cuenta);
+
+	}
+
+}

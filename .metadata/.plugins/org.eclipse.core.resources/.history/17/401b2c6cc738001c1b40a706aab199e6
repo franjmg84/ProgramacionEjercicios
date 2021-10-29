@@ -1,0 +1,33 @@
+package paqueteuno;
+
+import java.util.Scanner;
+
+
+
+
+public class ejercicioprofe {
+
+	public static void main(String[] args) {
+		// + es un operador binario porque tiene un operando
+		//a la izda y otro a la dcha
+		float suma=4+5; 
+		
+		suma--; //Este es unario 
+		System.out.println("suma vale: "+suma);
+		float cuenta = 5/(suma+7-4)*2f;
+		System.out.println(cuenta);
+		
+		// EPOCH
+		long timestamp=1635434265;
+		float segundosEnUnAño=60*60*24*365.2425f;
+		System.out.println("años desde 1970: "+
+		(timestamp/segundosEnUnAño));
+		System.out.println("segundos desde el 1 de enero de 2021: "+
+		(long)(timestamp%segundosEnUnAño));
+		long segundosEnUnDia=60*60*24;
+		System.out.println("dias desde el 1 de enero de 2021:"+
+		((timestamp%segundosEnUnAño)/segundosEnUnDia));
+		
+	}
+
+}

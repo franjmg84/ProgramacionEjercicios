@@ -1,0 +1,15 @@
+package com.practicasdecasa;
+
+public class pruebas {
+
+	public static void main(String[] args) {
+		
+		byte edad=35;
+		
+		edad=395;
+		
+		System.out.println(edad);
+		
+	}
+
+}

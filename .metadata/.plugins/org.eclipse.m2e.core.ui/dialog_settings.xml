@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\CENEC\PROGRAMACION ECLIPSE\PROYECTOS ECLIPSE\ejercicioclase2edad"/>
+			<item value="D:\CENEC\PROGRAMACION ECLIPSE\PROYECTOS ECLIPSE\com.ejerciciosdeclase"/>
+			<item value="D:\CENEC\PROGRAMACION ECLIPSE\PROYECTOS ECLIPSE\ejercico.clase.2"/>
+			<item value="D:\CENEC\PROGRAMACION ECLIPSE\PROYECTOS ECLIPSE"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.edad.ejerc2"/>
+			<item value="com.ejercicioedad"/>
+			<item value="ejercicio2.edad"/>
+			<item value="ejercicioclase.suma"/>
+			<item value="com.ejerciciosdeclase"/>
+			<item value="com.practicasdecasa"/>
+			<item value="proyecto.1.eclipse"/>
+			<item value="prueba.1.eclipse"/>
+		</list>
+		<list key="name">
+			<item value="ejercicioaños"/>
+			<item value="segundoejercicioaños"/>
+			<item value="añosejercicio"/>
+			<item value="ejerciciomatematicas"/>
+			<item value="matematicas"/>
+			<item value="ejercicios"/>
+			<item value="pruebasencasa"/>
+			<item value="ejercicio1"/>
+			<item value="proyectoeclipse1"/>
+			<item value="pruebaeclipse"/>
+		</list>
+		<list key="artifactId">
+			<item value="com.edad.ejerc2"/>
+			<item value="com.ejercicioedad"/>
+			<item value="ejercicio2.edad"/>
+			<item value="ejercicioclase.suma"/>
+			<item value="com.ejerciciosdeclase"/>
+			<item value="com.practicasdecasa"/>
+			<item value="proyecto.1.eclipse"/>
+			<item value="prueba.1.eclipse"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

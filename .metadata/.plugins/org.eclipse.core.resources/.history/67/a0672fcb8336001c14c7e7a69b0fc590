@@ -1,0 +1,24 @@
+package com.practicasdecasa;
+
+import java.util.Scanner;
+
+public class pruebas {
+
+	public static void main(String[] args) {
+		Scanner lector=new Scanner(System.in);
+		System.out.println("dime tu nombre");
+		String nombre=lector.nextLine();
+		System.out.println("dime tu apellido");
+		String apellido=lector.nextLine();
+		System.out.println("Bienveni@s, "+nombre+" "+apellido);
+		System.out.println("dime tu edad");
+		byte edad=lector.nextByte();
+		System.out.println("Dime tu nacionalidad");
+		String nacionalidad=lector.nextLine();
+		System.out.println("");
+	
+
+
+	}
+
+}

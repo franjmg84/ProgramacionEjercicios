@@ -1,0 +1,18 @@
+package paquete1;
+
+public class MeinPrincipal {
+
+	public static void main(String[] args) {
+		/*este simbolo es para poner cometarios 
+		 * o codigos y que no salgan*/
+		 // barra izquierda n es para un espacio entre lineas
+		System.out.println("Hola");
+        String meVoy="me piro";
+        String miNombre="Fran";
+        int edad=37;
+        System.out.println("no te aguanto, " +meVoy);
+        System.out.println("mi edad, " +edad);
+        System.out.println("ya toca descansar," +miNombre);
+	} 
+}
+	
