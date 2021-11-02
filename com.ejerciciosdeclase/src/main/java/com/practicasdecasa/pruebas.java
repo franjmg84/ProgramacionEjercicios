@@ -1,3 +1,4 @@
+
 package com.practicasdecasa;
 
 import java.util.Scanner;
@@ -15,7 +16,7 @@ public class pruebas {
 		byte edad=lector.nextByte();
 		System.out.println("Dime tu nacionalidad");
 		String nacionalidad=lector.nextLine();
-		System.out.println("");
+		System.out.println("española");
 		
 	
 

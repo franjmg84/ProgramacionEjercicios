@@ -11,7 +11,7 @@ public class pruebas {
 		edad=37;
 		
 		System.out.println(edad);		scanner sr = new Scanner(System.in);
-		
+	
 
 	}
 
